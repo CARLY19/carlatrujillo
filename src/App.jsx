@@ -25,14 +25,13 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Carla Trujillo",
-  title: "Web Desgner & Content Creator",
+  title: "data analyst and web/mobile design",
   email: "carlypau384@gmail.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  gitHub: "Carly19",
+  instagram: "Carly_Pau",
+  linkedIn: "Carla Paulina Trujillo Yugar",
+  medium: "Carla Trujillo",
+  
 };
 
 const primaryColor = "#4E567E";
